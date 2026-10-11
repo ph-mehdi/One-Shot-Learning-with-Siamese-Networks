@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset and trained weights
+data/
+datasets/
+checkpoints/
+weights/
+*.pt
+*.pth
